@@ -48,5 +48,5 @@ MIT License
 
 ---
 
-> 本 Skill 由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
+> 本 Skill 由 [人格蒸馏 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
 > 创建者：[好名字](https://github.com/taizi123789)
